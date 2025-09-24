@@ -29,7 +29,7 @@ Nosso objetivo é oferecer uma solução moderna, escalável e robusta para o ge
 | Dashboard                | ✔ Concluído |
 | Cadastro de Usuários     | ✔ Concluído |
 | Logs de Acessos          | ⚠ Em desenvolvimento |
-| Suporte a Múltiplas Empresas | ⚠ Em desenvolvimento |
+| Suporte a Múltiplas Empresas | ✔ Concluído |
 
 ---
 
