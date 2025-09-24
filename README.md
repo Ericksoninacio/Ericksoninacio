@@ -16,25 +16,111 @@ Nosso objetivo é oferecer uma solução moderna, escalável e robusta para o ge
 
 ---
 
-## 📦 Módulos Implementados e em Desenvolvimento
+# 📦 Módulos do Zynergy ERP
 
-## Suporte a Múltiplas empresas
-| Módulo                                   | Status |
-|------------------------------------------|--------|
-| Login no Sistema                         | ✔ Concluído |
-| Recuperação de Senha                     | ✔ Concluído |
-| Cadastro de Empresas                     | ✔ Concluído |
-| Dashboard                                | ✔ Concluído |
-| Cadastro de Usuários                     | ✔ Concluído |
-| Cadastro de Funcionários                 | ✔ Concluído |
-| Cadastro de Produtos                     | ✔ Concluído |
-| Cadastro de Clientes                     | ✔ Concluído |
-| PDV Padrão                               | ⚠ Em desenvolvimento |
-| PDV Diferencial (com mais recursos)      | ⚠ Em desenvolvimento |
-| Relatórios de Vendas                     | ⚠ Em desenvolvimento |
-| Exportar Relatórios para PDF             | ⚠ Em desenvolvimento |
-| Exportar Relatórios para Excel           | ⚠ Em desenvolvimento |
-| Logs de Acessos                          | ⚠ Em desenvolvimento |
+---
+
+## 🔑 Essenciais
+| Módulo                  | Status |
+|--------------------------|--------|
+| Login no Sistema         | ✔ Concluído |
+| Recuperação de Senha     | ✔ Concluído |
+| Cadastro de Empresas     | ✔ Concluído |
+| Dashboard                | ✔ Concluído |
+| Cadastro de Usuários     | ✔ Concluído |
+| Logs de Acessos          | ⚠ Em desenvolvimento |
+| Suporte a Múltiplas Empresas | ⚠ Em desenvolvimento |
+
+---
+
+## 👥 Gestão de Pessoas (RH)
+| Módulo                        | Status |
+|-------------------------------|--------|
+| Cadastro de Funcionários      | ✔ Concluído |
+| Folha de Pagamento            | ⏳ Planejado |
+| Controle de Ponto             | ⏳ Planejado |
+| Benefícios (VT, VR, etc.)     | ⏳ Planejado |
+| Obrigações acessórias (eSocial, GFIP, etc.) | ⏳ Planejado |
+
+---
+
+## 🛒 Gestão Comercial
+| Módulo                              | Status |
+|-------------------------------------|--------|
+| Cadastro de Produtos                 | ✔ Concluído |
+| Cadastro de Clientes                 | ✔ Concluído |
+| Cadastro de Fornecedores             | ⏳ Planejado |
+| PDV Padrão                           | ⚠ Em desenvolvimento |
+| PDV Diferencial (mais recursos)      | ⚠ Em desenvolvimento |
+| Orçamentos e Pedidos de Venda        | ⏳ Planejado |
+| Emissão de NF-e / NFC-e / NFS-e      | ⏳ Planejado |
+| Controle de Promoções e Descontos    | ⏳ Planejado |
+
+---
+
+## 📦 Estoque e Compras
+| Módulo                              | Status |
+|-------------------------------------|--------|
+| Controle de Entradas e Saídas       | ⏳ Planejado |
+| Inventário / Ajustes                 | ⏳ Planejado |
+| Transferência entre Filiais          | ⏳ Planejado |
+| Controle de Lotes e Validade         | ⏳ Planejado |
+| Pedidos de Compra                    | ⏳ Planejado |
+| Cotação com Fornecedores             | ⏳ Planejado |
+| Aprovação de Compras                 | ⏳ Planejado |
+
+---
+
+## 💰 Financeiro
+| Módulo                              | Status |
+|-------------------------------------|--------|
+| Contas a Pagar                      | ⏳ Planejado |
+| Contas a Receber                    | ⏳ Planejado |
+| Fluxo de Caixa                      | ⏳ Planejado |
+| Conciliação Bancária                | ⏳ Planejado |
+| Boletos e PIX Integrado             | ⏳ Planejado |
+| Gestão de Inadimplência             | ⏳ Planejado |
+
+---
+
+## 🏦 Contábil e Fiscal
+| Módulo                                                                 | Status |
+|------------------------------------------------------------------------|--------|
+| Plano de Contas Integrado                                              | ⏳ Planejado |
+| Lançamentos Contábeis Automáticos                                      | ⏳ Planejado |
+| Apuração de Impostos (ISS, ICMS, PIS/COFINS, IRPJ, CSLL) – *atualização prevista com a reforma tributária* | ⏳ Planejado |
+| Relatórios Fiscais (SPED, EFD, Sintegra, DCTF, etc.)                  | ⏳ Planejado |
+
+
+---
+
+
+---
+
+## 📊 Relatórios e Business Intelligence
+| Módulo                              | Status |
+|-------------------------------------|--------|
+| Relatórios de Vendas                | ⚠ Em desenvolvimento |
+| Exportar Relatórios para PDF        | ⚠ Em desenvolvimento |
+| Exportar Relatórios para Excel      | ⚠ Em desenvolvimento |
+| Relatórios Personalizáveis          | ⏳ Planejado |
+| Dashboards com KPIs                 | ⏳ Planejado |
+| Exportação em CSV                   | ⏳ Planejado |
+
+---
+
+## 🌐 Integrações e Extras
+| Módulo                              | Status |
+|-------------------------------------|--------|
+| Integração com Gateways de Pagamento (PagSeguro, MercadoPago, etc.) | ⏳ Planejado |
+| Integração com Marketplaces (Mercado Livre, Shopee, etc.) | ⏳ Planejado |
+| API Pública para Terceiros          | ⏳ Planejado |
+| Integração com CRMs                 | ⏳ Planejado |
+| Suporte Multi-idioma                | ⏳ Planejado |
+| Suporte Multi-moeda                 | ⏳ Planejado |
+| Notificações (E-mail / WhatsApp)    | ⏳ Planejado |
+| Aplicativo Mobile                   | ⏳ Planejado |
+| Backup Automático                   | ⏳ Planejado |
 
 ---
 
