@@ -18,7 +18,7 @@ Nosso objetivo é oferecer uma solução moderna, escalável e robusta para o ge
 
 ## 📦 Módulos Implementados e em Desenvolvimento
 
-## suporte a múltiplas empresas 
+## Suporte a Múltiplas empresas
 | Módulo                                   | Status |
 |------------------------------------------|--------|
 | Login no Sistema                         | ✔ Concluído |
