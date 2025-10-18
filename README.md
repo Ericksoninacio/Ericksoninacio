@@ -10,7 +10,7 @@
 
 Monitorando: 
 
-[![Status](https://img.shields.io/uptimerobot/status/m801610701-05d15ab3c54e09e17e4adde6?style=for-the-badge)](https://stats.uptimerobot.com/RAJSizhods)
+[![Status](https://img.shields.io/uptimerobot/status/m801612611-a23857400914c071e765f68c?style=for-the-badge)](https://stats.uptimerobot.com/RAJSizhods)
 
 [![Acesse o Zynergy](https://img.shields.io/badge/🌐%20Acessar-Zynergy-blue?style=for-the-badge)](http://hdf08pn4r26.sn.mynetname.net:82/)
 
