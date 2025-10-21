@@ -1,177 +1,77 @@
-# Zynergy
-
-## 📌 Status do Projeto
-> **Em desenvolvimento ativo** – não recomendado para uso em produção neste momento.
+# ⚙️ Zynergy
 > 
-🚧 **Projeto em constante evolução** – recebendo commits sempre que possível!  
-🚀 Atualmente, estamos focados no **módulo de Vendas (Caixa)**.  
+> **ERP Multiempresa para Gestão Integrada**  
+> Sistema corporativo em desenvolvimento ativo, projetado para unificar operações de empresas em um ambiente moderno e escalável.
 
-# 🌐 Status do Servidor Zynergy
+---
 
-Monitorando: 
+## 🚀 Status do Projeto
+
+> 🧩 **Fase atual:** Desenvolvimento do **Módulo de Vendas (Caixa)**  
+> 🔄 **Em constante evolução** – commits frequentes e melhorias contínuas.  
+> ⚠️ **Aviso:** Ainda **não recomendado para uso em produção**.
+
+---
+
+## 🌐 Status do Servidor Zynergy
+
+Monitoramento em tempo real:
 
 [![Status](https://img.shields.io/uptimerobot/status/m801612611-a23857400914c071e765f68c?style=for-the-badge)](https://stats.uptimerobot.com/RAJSizhods)
 
-[![Acesse o Zynergy](https://img.shields.io/badge/🌐%20Acessar-Zynergy-blue?style=for-the-badge)](http://hdf08pn4r26.sn.mynetname.net:82/)
-
-
-
-|![image](https://komarev.com/ghpvc/?username=Ericksoninacio&color=green) |
-|-------------------------------------------------------------------------|
-|since 21/10/2025|
-
+[![Acessar o Zynergy](https://img.shields.io/badge/🌐%20Acessar%20Sistema-blue?style=for-the-badge)](http://hdf08pn4r26.sn.mynetname.net:82/)
 
 ---
 
-## 📖 Sobre o Projeto
-O **Zynergy** é um sistema de gestão empresarial desenvolvido em **ASP.NET Core** com **frontend em HTML5, CSS3 e JavaScript**.  
-Nosso objetivo é oferecer uma solução moderna, escalável e robusta para o gerenciamento de diferentes operações de negócio.
+## 📊 Estatísticas do Perfil
+
+| ![Visualizações do Perfil](https://komarev.com/ghpvc/?username=Ericksoninacio&color=green) |  
+|--------------------------------------------------------------------------------------------|  
+| *Desde 21/10/2025* |
 
 ---
 
-# 📦 Módulos do Zynergy ERP
+## 🧠 Sobre o Projeto
+
+O **Zynergy** é um sistema **ERP modular** com foco em **gestão empresarial inteligente** e **suporte multiempresa**.  
+Sua arquitetura é baseada em **ASP.NET Core**, **MySQL**, seguindo princípios de **Clean Architecture**, **alta escalabilidade** e **segurança corporativa**.
+
+> 🏗️ **Objetivo:** Criar uma plataforma robusta e flexível, capaz de atender empresas de diferentes portes, com controle total de acesso, automação fiscal (NFC-e/NFe) e módulos personalizáveis.
 
 ---
 
-## 🔑 Essenciais
-| Módulo                  | Status |
-|--------------------------|--------|
-| Login no Sistema         | ✔ Concluído |
-| Recuperação de Senha     | ✔ Concluído |
-| Cadastro de Empresas     | ✔ Concluído |
-| Dashboard                | ✔ Concluído |
-| Cadastro de Usuários     | ✔ Concluído |
-| Logs de Acessos          | ⚠ Em desenvolvimento |
-| Suporte a Múltiplas Empresas | ✔ Concluído |
+## 🧩 Tecnologias Utilizadas
 
----
-
-## 👥 Gestão de Pessoas (RH)
-| Módulo                        | Status |
-|-------------------------------|--------|
-| Cadastro de Funcionários      | ✔ Concluído |
-| Folha de Pagamento            | ⏳ Planejado |
-| Controle de Ponto             | ⏳ Planejado |
-| Benefícios (VT, VR, etc.)     | ⏳ Planejado |
-| Obrigações acessórias (eSocial, GFIP, etc.) | ⏳ Planejado |
-
----
-
-## 🛒 Gestão Comercial
-| Módulo                              | Status |
-|-------------------------------------|--------|
-| Cadastro de Produtos                 | ✔ Concluído |
-| Cadastro de Clientes                 | ✔ Concluído |
-| Cadastro de Fornecedores             | ⏳ Planejado |
-| PDV Padrão                           | ⚠ Em desenvolvimento |
-| PDV Diferencial (mais recursos)      | ⚠ Em desenvolvimento |
-| Orçamentos e Pedidos de Venda        | ⏳ Planejado |
-| Emissão de NF-e / NFC-e / NFS-e      | ⏳ Planejado |
-| Controle de Promoções e Descontos    | ⏳ Planejado |
-
----
-
-## 📦 Estoque e Compras
-| Módulo                              | Status |
-|-------------------------------------|--------|
-| Controle de Entradas e Saídas       | ⏳ Planejado |
-| Inventário / Ajustes                 | ⏳ Planejado |
-| Transferência entre Filiais          | ⏳ Planejado |
-| Controle de Lotes e Validade         | ⏳ Planejado |
-| Pedidos de Compra                    | ⏳ Planejado |
-| Cotação com Fornecedores             | ⏳ Planejado |
-| Aprovação de Compras                 | ⏳ Planejado |
-
----
-
-## 💰 Financeiro
-| Módulo                              | Status |
-|-------------------------------------|--------|
-| Contas a Pagar                      | ⏳ Planejado |
-| Contas a Receber                    | ⏳ Planejado |
-| Fluxo de Caixa                      | ⏳ Planejado |
-| Conciliação Bancária                | ⏳ Planejado |
-| Boletos e PIX Integrado             | ⏳ Planejado |
-| Gestão de Inadimplência             | ⏳ Planejado |
-
----
-
-## 🏦 Contábil e Fiscal
-| Módulo                                                                 | Status |
-|------------------------------------------------------------------------|--------|
-| Plano de Contas Integrado                                              | ⏳ Planejado |
-| Lançamentos Contábeis Automáticos                                      | ⏳ Planejado |
-| Apuração de Impostos (ISS, ICMS, PIS/COFINS, IRPJ, CSLL) – *atualização prevista com a reforma tributária* | ⏳ Planejado |
-| Relatórios Fiscais (SPED, EFD, Sintegra, DCTF, etc.)                  | ⏳ Planejado |
-
-
----
-
-
----
-
-## 📊 Relatórios e Business Intelligence
-| Módulo                              | Status |
-|-------------------------------------|--------|
-| Relatórios de Vendas                | ⚠ Em desenvolvimento |
-| Exportar Relatórios para PDF        | ⚠ Em desenvolvimento |
-| Exportar Relatórios para Excel      | ⚠ Em desenvolvimento |
-| Relatórios Personalizáveis          | ⏳ Planejado |
-| Dashboards com KPIs                 | ⏳ Planejado |
-| Exportação em CSV                   | ⏳ Planejado |
-
----
-
-## 🌐 Integrações e Extras
-| Módulo                              | Status |
-|-------------------------------------|--------|
-| Integração com Gateways de Pagamento (PagSeguro, MercadoPago, etc.) | ⏳ Planejado |
-| Integração com Marketplaces (Mercado Livre, Shopee, etc.) | ⏳ Planejado |
-| API Pública para Terceiros          | ⏳ Planejado |
-| Integração com CRMs                 | ⏳ Planejado |
-| Suporte Multi-idioma                | ⏳ Planejado |
-| Suporte Multi-moeda                 | ⏳ Planejado |
-| Notificações (E-mail / WhatsApp)    | ⏳ Planejado |
-| Aplicativo Mobile                   | ⏳ Planejado |
-| Backup Automático                   | ⏳ Planejado |
-
----
-
-## 🛠️ Tecnologias Utilizadas
 - **Backend:** ASP.NET Core  
-- **Frontend:** HTML5, CSS3, JavaScript  
+- **Frontend (Desktop):** WPF  
 - **Banco de Dados:** MySQL 8.0  
 - **ORM:** Entity Framework Core  
-- **Arquitetura:** Clean Architecture + Repository Pattern  
-- **Autenticação:** Cookies + Claims  
-- **Contêineres:** Docker e Docker Compose  
----
-
-## 🚀 Roadmap
-- [ ] Finalizar PDV Padrão  
-- [ ] Implementar PDV Diferencial  
-- [ ] Criar relatórios personalizáveis  
-- [ ] Melhorar experiência do usuário (UX/UI)  
-- [ ] Implementar auditoria e logs avançados  
-- [ ] Integração com **emissão de NFC-e**  
-- [ ] Adicionar **impressão remota** de cupons e etiquetas **zebra**
----
-
-## 🤝 Contribuição
-Sinta-se à vontade para abrir e dar uma olhada . Toda contribuição é bem-vinda!  
+- **Arquitetura:** Clean Architecture / DDD  
+- **Autenticação:** Cookies e Claims  
+- **Infraestrutura:** Multiempresa, escalável e modular
 
 ---
 
-## 💖 Apoie este Projeto
+## 📅 Roadmap
 
-Se você gosta do **Zynergy** e quer ajudar no desenvolvimento, contribua com qualquer valor:  
-
-📲 **PIX:** `66992356909`  
+- [x] Estrutura base do projeto  
+- [x] Módulo de autenticação e controle de acesso  
+- [x] Integração multiempresa  
+- [ ] Módulo de Vendas (em andamento)  
+- [ ] Emissão de NFC-e  
+- [ ] Impressão e controle remoto de documentos fiscais  
+- [ ] Portal de administração online  
 
 ---
 
-### 💡 Apoio com Ideias
-Nem só de código vive um projeto! 😃  
-Você pode contribuir sugerindo **novas funcionalidades, melhorias ou correções**:
-- Compartilhe feedback sobre usabilidade e recursos desejados
-- [![Apoiar via Whatsapp](https://img.shields.io/badge/💸%20Apoiar%20via-Whatsapp-brightgreen?style=for-the-badge)](https://wa.me/5566992356909)
+## 👨‍💻 Autor
+
+**Erickson Inácio**  
+Desenvolvedor de Software • Foco em sistemas corporativos e integrações fiscais  
+
+[![GitHub](https://img.shields.io/badge/GitHub-EricksonInacio-black?style=for-the-badge&logo=github)](https://github.com/Ericksoninacio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EricksonInacio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ericksoninacio)
+
+---
+
+> 💡 *“Construindo soluções sólidas, modulares e escaláveis.”*
