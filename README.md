@@ -15,6 +15,12 @@ Monitorando:
 [![Acesse o Zynergy](https://img.shields.io/badge/🌐%20Acessar-Zynergy-blue?style=for-the-badge)](http://hdf08pn4r26.sn.mynetname.net:82/)
 
 
+
+|![image](https://komarev.com/ghpvc/?username=AlencarGabriel&color=green) |
+|-------------------------------------------------------------------------|
+|since 21/10/2025|
+
+
 ---
 
 ## 📖 Sobre o Projeto
