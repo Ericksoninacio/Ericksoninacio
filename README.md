@@ -16,7 +16,7 @@ Monitorando:
 
 
 
-|![image](https://komarev.com/ghpvc/?username=AlencarGabriel&color=green) |
+|![image](https://komarev.com/ghpvc/?username=Ericksoninacio&color=green) |
 |-------------------------------------------------------------------------|
 |since 21/10/2025|
 
