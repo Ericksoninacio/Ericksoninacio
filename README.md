@@ -1,8 +1,9 @@
 # ⚙️ Zynergy
 > 
-> **ERP Multiempresa para Gestão Integrada**  
+> **ERP Multiempresa para Gestão Integrada**   
 > Sistema corporativo em desenvolvimento ativo, projetado para unificar operações de empresas em um ambiente moderno e escalável.
-
+> **Projeto pessoal**
+> 
 ---
 
 ## 🚀 Status do Projeto
@@ -69,8 +70,7 @@ Sua arquitetura é baseada em **ASP.NET Core**, **MySQL**, seguindo princípios 
 **Erickson Inácio**  
 Desenvolvedor de Software • Foco em sistemas corporativos e integrações fiscais  
 
-[![GitHub](https://img.shields.io/badge/GitHub-EricksonInacio-black?style=for-the-badge&logo=github)](https://github.com/Ericksoninacio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EricksonInacio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ericksoninacio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EricksonInacio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erickson-inacio-dos-santos)
 
 ---
 
